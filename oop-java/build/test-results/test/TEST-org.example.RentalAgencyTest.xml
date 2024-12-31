@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.RentalAgencyTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-12-31T01:43:27" hostname="KOBBY24" time="0.007">
+  <properties/>
+  <testcase name="testCreateVehicle()" classname="org.example.RentalAgencyTest" time="0.005"/>
+  <testcase name="testAddVehicle()" classname="org.example.RentalAgencyTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
